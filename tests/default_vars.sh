@@ -922,6 +922,7 @@ export HWRF_SAMFDEEP=.false.
 export RAS=.false.
 export RANDOM_CLDS=.false.
 export CNVCLD=.true.
+export PROGSIGMA=.false.
 
 # Aerosol convective scavenging
 export FSCAV_AERO="'*:0.0'"
